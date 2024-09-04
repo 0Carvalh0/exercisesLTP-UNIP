@@ -10,7 +10,10 @@ int main() {
 
     sf = sa + a;
 
+    printf("===================================================\n");
+
     printf("O aumento foi de: %f", a);
 
-    printf("O salario final e: %f", sf);
+    printf("\nO salario final e: %f", sf);
+    return 0;
 }

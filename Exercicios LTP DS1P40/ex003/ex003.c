@@ -11,5 +11,8 @@ int main() {
 
     a = (b*h)/2;
 
+    printf("===================================================\n");
+
     printf("A area do triangulo e: %f", a);
+    return 0;
 }

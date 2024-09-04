@@ -9,7 +9,9 @@ int main() {
     d = vc * 0.05;
     vf = vc - d;
 
+    printf("===================================================\n");
     printf("O desconto sera de: R$%f", d);
 
-    printf("O valor final da compra sera de: R$%f", vf);
+    printf("\nO valor final da compra sera de: R$%f", vf);
+    return 0;
 }
