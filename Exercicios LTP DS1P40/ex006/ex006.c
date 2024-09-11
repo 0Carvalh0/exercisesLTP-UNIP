@@ -1,18 +1,21 @@
-// COTAÇÃO DO DOLAR HOJE ESTÁ EM R$5,64
 #include "stdio.h"
 
 int main() {
     float dolar, cotdolar, real;
 
-    printf("Digite quantos dolares voce tem na carteira: $");
-    scanf("%f", &dolar);
-
+    // ENTRADA
     printf("Digite qual e a cotacao do dolar hoje: R$");
     scanf("%f", &cotdolar);
 
+    printf("Digite quantos dolares voce tem na carteira: $");
+    scanf("%f", &dolar);
+
+    // PROCESSAMENTO
     real = dolar * cotdolar;
 
     printf("===================================\n");
 
-    printf("Fazendo a convercao do dolar para real, voce tem: R$%f", real);
+    // SAÍDA
+    printf("Fazendo a convercao do dolar para real, voce tem: R$%.2f", real);
+    return 0;
 }
