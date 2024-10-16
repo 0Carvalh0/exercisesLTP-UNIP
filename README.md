@@ -12,8 +12,8 @@ Este repositório contém os exercícios realizados durante o curso de Análise 
 
 O repositório está organizado da seguinte forma:
 
-- `Exercicios LTP DS2P40/ex001`: Exercícios da primeira aula
-- `Exercicios LTP DS2P40/ex002`: Exercícios da segunda aula
+- `Exercicios_LTP_DS2P40/ex001`: Exercícios da primeira aula
+- `Exercicios_LTP_DS2P40/ex002`: Exercícios da segunda aula
 - ...
 
 Cada pasta contém os arquivos relacionados aos exercícios daquela aula específica.
