@@ -12,8 +12,8 @@ Este repositório contém os exercícios realizados durante o curso de Análise 
 
 O repositório está organizado da seguinte forma:
 
-- `/ex001`: Exercícios da primeira aula
-- `/ex002`: Exercícios da segunda aula
+- `Exercicios LTP DS1P40/ex001`: Exercícios da primeira aula
+- `Exercicios LTP DS1P40/ex002`: Exercícios da segunda aula
 - ...
 
 Cada pasta contém os arquivos relacionados aos exercícios daquela aula específica.
@@ -27,7 +27,7 @@ Cada pasta contém os arquivos relacionados aos exercícios daquela aula especí
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/0Carvalh0/exercisesLTP-UNIP.git
    ```
 2. Navegue até a pasta do exercício desejado.
 
